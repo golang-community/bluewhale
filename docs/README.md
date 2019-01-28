@@ -14,11 +14,11 @@
 
 ## QQ Group
 
-![qq_group](docs/_media/humpback_qq_group.jpg)
+![qq_group](_images/humpback_qq_group.jpg)
 
 ## Architecture
 
-![Humpback Architecture](https://humpback.github.io/humpback/_media/humpback-arch.png)
+![Humpback Architecture](_images/humpback-arch.png)
 
 ## Features
 
