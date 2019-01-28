@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/golang-community/bluewhale">
-    <img alt="humpback" src="_images/logo.png">
+    <img alt="humpback" src="./_images/logo.png">
   </a>
 </p>
 

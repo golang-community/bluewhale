@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/golang-community/bluewhale">
-    <img alt="humpback" src="_images/logo.png">
+    <img alt="humpback" src="./docs/_images/logo.png">
   </a>
 </p>
 
@@ -14,11 +14,11 @@
 
 ## QQ Group
 
-![qq_group](docs/_media/humpback_qq_group.jpg)
+![qq_group](docs/_images/humpback_qq_group.jpg)
 
 ## Architecture
 
-![Humpback Architecture](https://humpback.github.io/humpback/_media/humpback-arch.png)
+![Humpback Architecture](docs/_images/humpback-arch.png)
 
 ## Features
 
